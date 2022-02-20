@@ -19,13 +19,17 @@ Class Memory memiliki 3 Attribut, yaitu:
 
 ## Screenshoot Program
 Java
+
 ![alt text](https://github.com/vier15/LATIHAN2DPBO2022/blob/main/Screenshoot/Java.png)
 
 C++
+
 ![alt text](https://github.com/vier15/LATIHAN2DPBO2022/blob/main/Screenshoot/CPP.png)
 
 Python
+
 ![alt text](https://github.com/vier15/LATIHAN2DPBO2022/blob/main/Screenshoot/Python.png)
 
 php
+
 ![alt text](https://github.com/vier15/LATIHAN2DPBO2022/blob/main/Screenshoot/PHP.png)
